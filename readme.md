@@ -9,7 +9,7 @@ add 10 volume - random album
 sub 20 volume - previous track
 
 
-run all.py from rc.local
+run /home/pi/buttons/all.py from rc.local for autostart
 
 install mpdrandom for random album
 https://github.com/axujen/mpdrandom
