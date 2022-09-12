@@ -1,12 +1,9 @@
 short press -  long press functions for moode + pirate audio
 
-play/pause - shutdown
+play/pause - shutdown                                                             next track - load playlist 'Indie Radio'
 
-next track - load playlist 'Indie Radio'
+sub 20 volume - previous track                                                    add 10 volume - random album
 
-add 10 volume - random album
-
-sub 20 volume - previous track
 
 
 run /home/pi/buttons/all.py from rc.local for autostart
